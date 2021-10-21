@@ -24,3 +24,10 @@ It content three main parts: <br>
  * The Annuary that contains all records
  * The different buttons allow you to perform several actions
  * In the top bar, two buttons for specific options 
+
+## How to use it
+
+For run this projet, use the following command in the directory wich contain the notebook file: <br>
+```
+jupyter nbconvert --to notebook --execute python_sec.ipynb
+```
